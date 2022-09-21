@@ -1,7 +1,7 @@
 {
-    name: "James Test 9",
-    description: "James test description 9",
-    image: "https://raw.githubusercontent.com/JamesStar3721/nftMockData/master/images/9.png",
-    external_url: "https://github.com/JamesStar3721/",
-    attributes: []
+    "name": "James Test 9",
+    "description": "James test description 9",
+    "image": "https://raw.githubusercontent.com/JamesStar3721/nftMockData/master/images/9.png",
+    "external_url": "https://github.com/JamesStar3721/",
+    "attributes": []
 }
